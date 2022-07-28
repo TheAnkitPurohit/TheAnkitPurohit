@@ -7,7 +7,7 @@ I'm a Mern stack developer...
 
 ## 🚀 About Me
 
-👩‍💻 I'm currently working on Softcolon Technologies
+👩‍💻 I'm currently working in Softcolon Technologies
 
 🧠 I'm currently learning Solana and Web3
 
