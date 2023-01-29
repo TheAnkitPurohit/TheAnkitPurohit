@@ -7,7 +7,7 @@ I'm a Mern stack developer...
 
 ## 🚀 About Me
 
-👩‍💻 MERN Stack developer at Softcolon Technologies
+👩‍💻 React and React Native Developer
 
 🧠 I'm currently learning Solana and Web3
 
@@ -20,7 +20,7 @@ I'm a Mern stack developer...
 
 **Base:** HTML, CSS, JavaScript and TypeScript
 
-**Client:** React, Context API, Next JS, TailwindCSS
+**Library:** React and  React Native, 
 
-**Server:** Node, Express, MongoDB
+**CSS Framework:** Chakra UI and TailwindCSS
 
