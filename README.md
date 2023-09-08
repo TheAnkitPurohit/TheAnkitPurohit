@@ -13,13 +13,13 @@ I'm a Frontend developer with 1.5+ years of experience
 
 **CSS Framework:** Chakra UI, Material UI and TailwindCSS
 
-**DATABASE** MongoDB, PlanetScale and PostgreSQL
+**DATABASE:** MongoDB, PlanetScale and PostgreSQL
 
 
 📫 How to reach me
 
-theankitpurohit@gmail.com
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theankitpurohit/)
+[![email](https://img.shields.io/badge/email-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](mailto:theankitpurohit@gmail.com/)
 
 
 
