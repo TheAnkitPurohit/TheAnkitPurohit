@@ -2,25 +2,27 @@
 # Hi, I'm Ankit Purohit! 👋
 
 
-I'm a Mern stack developer...
+I'm a Frontend developer with 1.5+ years of experience
 
 
-## 🚀 About Me
-
-👩‍💻 React and React Native Developer
-
-🧠 I'm currently learning Solana and Web3
-
-📫 How to reach me theankitpurohit@gmail.com
-
-⚡️ Fun fact I 😍 Tailwind CSS
-
-
-## Tech Stack
+🚀  Tech Stack
 
 **Base:** HTML, CSS, JavaScript and TypeScript
 
-**Library:** React and  React Native, 
+**Library:**  React and Next.js with Next-auth and prisma
 
-**CSS Framework:** Chakra UI and TailwindCSS
+**CSS Framework:** Chakra UI, Material UI and TailwindCSS
+
+**DATABASE** MongoDB, PlanetScale and PostgreSQL
+
+
+📫 How to reach me
+
+theankitpurohit@gmail.com
+
+
+
+
+
+
 
