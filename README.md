@@ -7,13 +7,13 @@ I'm a Frontend developer with 1.5+ years of experience
 
 🚀  Tech Stack
 
-**Base:** HTML, CSS, JavaScript and TypeScript
+**Base:** HTML, CSS, JavaScript and 
 
 **Library:**  React and Next.js with Next-auth and prisma
 
 **CSS Framework:** Chakra UI, Material UI and TailwindCSS
 
-**DATABASE:** MongoDB, PlanetScale and PostgreSQL
+**Language:** Python and TypeScript
 
 
 📫 How to reach me
